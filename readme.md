@@ -1,5 +1,7 @@
 # Introduccion a C#
 
+https://docs.microsoft.com/es-es/dotnet/csharp/tour-of-csharp/
+
 ## Namespaces en C#
 
 **Namespace:** Tiene que representar algo significativo para el programa, con un nombre único. Cada Namespace puede tener diferentes clases, tantas como requiera el programa.
